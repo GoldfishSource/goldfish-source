@@ -1,0 +1,9 @@
+Building GOLDFISH
+
+See doc/readme-qt.rst for instructions on building GOLDFISH QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of GOLDFISH.
+
+See doc/build-*.txt for instructions on building goldfishd,
+the intended-for-services, no-graphical-interface, reference
+implementation of GOLDFISH.
